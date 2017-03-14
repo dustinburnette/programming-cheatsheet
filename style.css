@@ -11,3 +11,13 @@ h2{
   font-family: Impact;
   color:green;
 }
+
+div {
+border:dashed 1px red;
+
+}
+
+span {
+  border: solid 1px cyan;
+
+}
