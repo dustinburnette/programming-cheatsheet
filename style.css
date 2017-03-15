@@ -1,8 +1,23 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
 *{
 
   font-family: Chalkboard;
   background-color: gray;
-  color: #ccccff;
+  color: black;
+  text-align: center;
+   
 }
 #impact{
 
@@ -32,6 +47,19 @@
   height: 100px;
   width: 100px;
   background-color: yellow;
-  
 
+
+}
+#default{
+
+  line-height:default;
+}
+#percent{
+  line-height: 400%;
+
+
+}
+#decimal{
+
+  line-height: .25;
 }
