@@ -1,23 +1,37 @@
-p{
-color:cyan;
+*{
 
+  font-family: Chalkboard;
+  background-color: gray;
+  color: #ccccff;
 }
-h1{
-  font-family: Helvetica, Verdana, sans-serif;
-}
-
-h2{
+#impact{
 
   font-family: Impact;
-  color:green;
-}
-
-div {
-border:dashed 1px red;
 
 }
+#courier{
 
-span {
-  border: solid 1px cyan;
+  font-family: courier;
+
+}
+#Verdana{
+
+  font-family: Verdana
+}
+#cyan{
+
+  color:cyan;
+
+}
+#red{
+
+  color:red;
+}
+#yellow{
+
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  
 
 }
