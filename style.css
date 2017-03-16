@@ -19,6 +19,7 @@
   text-align: center;
 
 }
+
 #impact{
 
   font-family: Impact;
@@ -68,4 +69,40 @@
 ul{
 
   list-style-type: none;
+}
+#background-color{
+  background-color:green;
+  width:200px;
+  height:100px;
+  margin:0 auto 0 auto;
+  border-radius:10px;
+  padding:10px;
+  font-size:22px;
+  line-height: 35px;
+
+
+}
+#border{
+  width:200px;
+  height:100px;
+  margin:auto;
+  border:solid 1px cyan;
+  border-radius:10px;
+  padding:10px;
+  font-size:22px;
+  line-height: 45px;
+
+}
+#background-image{
+  background-image: url("https://packagecontrol.io/readmes/img/93631b4d04c6c5266de79cb17b1e83676971826f.gif");
+  background-position: center left;
+  color:white;
+  width:200px;
+  height:100px;
+  margin:auto;
+  border-radius:10px;
+  padding:10px;
+  font-size:22px;
+  line-height: 30px;
+
 }
