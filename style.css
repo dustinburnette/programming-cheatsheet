@@ -13,10 +13,11 @@
 
 *{
 
-  font-family: Chalkboard;
+  font-family: apple gothic;
   background-color: gray;
   color: black;
   text-align: center;
+  line-height:1.5em;
 
 }
 
@@ -105,4 +106,22 @@ ul{
   font-size:22px;
   line-height: 30px;
 
+}
+.amaranth p{
+  font-family: amaranth , sans-serif;
+
+
+
+}
+.sunshiney p{
+  font-family: sunshiney , cursive;
+
+
+}
+.ubuntu p{
+  font-family: ubuntu , sans-serif;
+
+}
+.fonts{
+  font-size: 1.5em;
 }
